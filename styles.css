@@ -9,15 +9,6 @@ body{
   padding: 2px;
   margin: 10px;
 }
-
-/* .container::after {
-  content: "";
-  clear: both;
-  display: table;
-}
- */
-
-
 .container span {
   font-size: 10px;
   margin-left: 80%;
